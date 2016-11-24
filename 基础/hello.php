@@ -1,10 +1,10 @@
-<?php
+ï»¿<?php
 
 
 
 
 
-echo "hello world£¡";
+echo "hello worldï¼";
 
 
 
